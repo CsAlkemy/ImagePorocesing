@@ -1,6 +1,4 @@
-.PinturaDragButton{
-    display: none !important;
-}
+
 .image-container {
     display: flex;
     gap: 1rem;
